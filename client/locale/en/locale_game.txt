@@ -1,0 +1,36 @@
+SPORTS_MATCH_EVENT_APPOINT	Confirm
+SPORTS_MATCH_EVENT_APPOINT_POPUP_MESSAGE	You have selected %s. Do you want to choose this country?
+SPORTS_MATCH_EVENT_CHEER	Cheer
+SPORTS_MATCH_EVENT_CHEER_POPUP_MESSAGE	You have selected %s. Do you want to cheer for this country?
+SPORTS_MATCH_EVENT_OFF	The World Cup Event is over.
+SPORTS_MATCH_EVENT_ON	The World Cup Event has started.
+SPORTS_MATCH_EVENT_PREDICT_UI_TITLE	Supporters' Event
+SPORTS_MATCH_EVENT_REWARD	Claim Reward
+SPORTS_MATCH_EVENT_SOURCE_ITEM_FLAG_IMG_MESSAGE	Collect 8 Ticket Scraps and they will be put together to make a Football Ticket.\nThe Football Ticket can be exchanged for rewards and event items.
+SPORTS_MATCH_EVENT_TIME_END	Unusable when the event has ended.
+SPORTS_MATCH_EVENT_WORLDCUP_CHAT_TYPE_APPOINT_ITEM_NOT_ENOUGH	You need a Country Ticket.
+SPORTS_MATCH_EVENT_WORLDCUP_CHAT_TYPE_CHEER_ITEM_NOT_ENOUGH	You need a Cheering Ticket.
+SPORTS_MATCH_EVENT_WORLDCUP_CHAT_TYPE_CHEER_MAX	You can't cheer any more.
+SPORTS_MATCH_EVENT_WORLDCUP_CHAT_TYPE_COOLTIME_NOT_END_MSG	Please try again later.
+SPORTS_MATCH_EVENT_WORLDCUP_CHAT_TYPE_INVENTORY_FULL_MSG	There isn't enough space in your inventory.
+SPORTS_MATCH_EVENT_WORLDCUP_CHAT_TYPE_MIN_LEVEL_MSG	Only characters from level 60 can participate.
+SPORTS_MATCH_EVENT_WORLDCUP_CHAT_TYPE_RESULT_ITEM_FLAG_MAX	You cannot receive any more event items.
+SPORTS_MATCH_EVENT_WORLDCUP_CHAT_TYPE_TICKET_ITEM_ADD	Item received: %dx Football Ticket
+SPORTS_MATCH_EVENT_WORLDCUP_CHAT_TYPE_TICKET_ITEM_LACK	You require %d more Football Tickets.
+SPORTS_MATCH_EVENT_WORLDCUP_CHAT_TYPE_TICKET_PIECE_ITEM_ADD	Item received: Ticket Scrap
+SPORTS_MATCH_EXCHANGE_END_TIME	Time remaining until exchange: %s
+SPORTS_MATCH_ITEM_FLAG_TICKET_DESC	You can exchange this for rewards and event items.
+SPORTS_MATCH_ITEM_FLAG_TICKET_NAME	Football Ticket
+SPORTS_MATCH_ITEM_FLAG_TICKET_PIECE_NAME	Ticket Scrap
+SPORTS_MATCH_PREDICT_ENABLE_REWARD	You can receive rewards from the Supporters' Event. Open the Supporters' Event window.
+SPORTS_MATCH_PREDICT_EVENT_OFF	The Supporters' Event is over.
+SPORTS_MATCH_PREDICT_GET_REWARD	Reward received: Gaya Sports Bag. The amount of Gaya inside depends on how often you have cheered for the team.
+SPORTS_MATCH_TICKET_COUNT_NOT_ENOUGH	You don't have enough Football Tickets.
+SPORTS_MATCH_UI_ITEM_EXCHANGE_BUTTON	Exchange
+SPORTS_MATCH_UI_ITEM_FLAG_COUNT	Owned
+SPORTS_MATCH_UI_ITEM_FLAG_EXCHANGE_LIST	Exchange List
+SPORTS_MATCH_UI_ITEM_USE_BUTTON	Redeem
+SPORTS_MATCH_UI_MATCH_PREDICT_BUTTON	CHEER
+SPORTS_MATCH_WORLDCUP_EVENT_OFF	The World Cup Event is over.
+SPORTS_MATCH_WORLDCUP_EVENT_ON	The World Cup Event has started.
+SPORTS_MATCH_WORLDCUP_EVENT_UI_TITLE	World Cup Event

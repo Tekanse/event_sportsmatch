@@ -1,0 +1,22 @@
+quest eventsports begin
+	state start begin
+		when kill with not npc.is_pc() and pc.get_level() >= 60 begin
+			local mob_level = npc.get_level()
+			local level = pc.get_level()
+			if level - mob_level <= 30 and level - mob_level >= -30 then
+				if number(1, 100) < 50 then
+					local piecesCount = pc.getqf("pieces") + 1
+					local ticketsCount = pc.getqf("tickets")
+					if piecesCount >= 8 then
+						piecesCount = 0
+						ticketsCount = ticketsCount + 1
+						pc.setqf("pieces", 0)
+						pc.setqf("tickets", ticketsCount)
+					end
+					pc.setqf("pieces", piecesCount)
+					cmdchat("SportsEventTickets "..piecesCount.." "..ticketsCount)
+				end
+			end
+		end
+	end
+end
