@@ -29,3 +29,9 @@ VNUM_REWARD_2 = 0
   You just need to set eventflag `eventsportsmatch_winner` to ID of the team that won world cup. You can find teams ID's in `sports_match_participate_list.txt`.
   
   ![](eventsportsmatch.gif)
+
+Made by Tekanse
+https://metin2.dev/profile/35360-tekanse/
+
+You can check out my paid services here:
+https://metin2.dev/marketplace/fishing-with-autofishing-bdo-like-rendertarget-chest-other-r155
